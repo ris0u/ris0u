@@ -35,7 +35,7 @@ I believe in **minimalist interfaces**, **accessible design**, and **systems tha
 
 ## 📫 Let’s Connect
 - 📧 Email: **kian.manalastas11@gmail.com**
-- 🌐 Behance: [Portfolio](https://www.dribbble.com/_kiannn)
+- 🌐 Dribbble: [Portfolio](https://www.dribbble.com/_kiannn)
 - 💬 Open to collaborations on **UI/UX projects, creative portfolios, and design-driven dev work**
 
 ---
