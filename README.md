@@ -1,6 +1,6 @@
 # 🎨 Hello, I'm Kian (@ris0u)
 
-I'm a **Computer Engineering graduate** and **UI/UX-focused Frontend Developer** based in Quezon City, Philippines. I blend creativity with code — building interfaces that are intuitive, accessible, and grounded in solid engineering.
+I'm a **Computer Engineering graduate** and **UI/UX-focused Frontend Developer** based in Quezon City, Philippines. I enjoy designing, building, and solving problems through developing apps/webapps. Learning new technologies keeps me motivated because there is so much that I do not know that I need to know out of curiosity and keep me sharp and up to date with newer trends. 
 
 ---
 
@@ -10,15 +10,15 @@ I'm a **Computer Engineering graduate** and **UI/UX-focused Frontend Developer**
 - ⚡ **Frontend Development** – Vue.js, HTML/CSS/JavaScript, Bootstrap, and component-driven workflows.
 - 🔧 **Backend & Databases** – Node.js, PHP, Python, Firebase, MySQL.
 - 🤖 **Embedded Systems** – ESP32/Raspberry Pi development, IoT integration, circuit design.
-- 🔗 **Networking** – Cisco fundamentals, routing & switching, TCP/IP.
+- 🔗 **Networking** – Cisco fundamentals, routing & switching, TCP/IP, OSPF, NSLOOKUP, Firewall.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, PHP, Python
+**Languages:** JavaScript, PHP, Python, C++
 
-**Web:** HTML, CSS, Vue.js, Node.js, Bootstrap
+**Web:** HTML, CSS, Vue.js, Node.js, Bootstrap, MQTT
 
 **Databases:** Firebase, MySQL
 
@@ -28,7 +28,7 @@ I'm a **Computer Engineering graduate** and **UI/UX-focused Frontend Developer**
 
 **Version Control:** Git, GitHub
 
-**Developer Tools:** Postman, Netlify, Trello, n8n
+**Developer Tools:** Postman, Netlify, Trello, n8n, Github Actions
 
 ---
 
@@ -71,4 +71,3 @@ I believe in **minimalist interfaces**, **accessible design**, and **systems tha
 
 - 📧 Email: **kianmanalastas11@gmail.com**
 - 🌐 Portfolio: [wonderful-cuchufli-ef8a1e.netlify.app](https://wonderful-cuchufli-ef8a1e.netlify.app/)
-- 💬 Open to collaborations on **UI/UX projects, creative portfolios, and design-driven dev work**
